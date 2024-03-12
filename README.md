@@ -1,1 +1,1 @@
-# Coin_Museum
+# CoinMuseum.github.io
